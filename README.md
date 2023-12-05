@@ -43,5 +43,4 @@ git clone https://github.com/your-username/repository-name.git
 cd repository-name
 make install
 make test
-
-![Alt text](image.png)
+<img width="800" alt="Screenshot 2023-12-04 at 11 44 47 PM" src="https://github.com/nogibjj/W6_miniproject_rt/assets/143838819/639e74c5-0bd0-44ae-9f37-903102963495">
